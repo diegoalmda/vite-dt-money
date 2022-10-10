@@ -31,6 +31,14 @@
       "type": "outcome",
       "createdAt": "2022-10-10T21:14:09.039Z",
       "id": 4
+    },
+    {
+      "description": "Aplicativo de jogo",
+      "price": 20000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-10-10T22:09:37.388Z",
+      "id": 5
     }
   ]
 }
