@@ -15,6 +15,22 @@
       "category": "Alimentação",
       "price": 120,
       "createdAt": "2022-08-10T18:41:44.736Z"
+    },
+    {
+      "description": "App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-10-10T20:57:09.613Z",
+      "id": 3
+    },
+    {
+      "description": "Pastel",
+      "price": 10,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-10-10T21:14:09.039Z",
+      "id": 4
     }
-  ] 
+  ]
 }
